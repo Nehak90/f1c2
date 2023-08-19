@@ -1,0 +1,132 @@
+* {
+    margin: 0px;
+    padding: 0px;
+   
+    
+  }
+  
+  #navbar{
+    background-color: black;
+    padding: 10px;
+    font-size: 25;
+    font: 15px "lato", sans-serif;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: sticky;
+    top: 0; /* required */
+  }
+  #navbar a {
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    background-color: black;
+  }
+  #LibraryS{
+    float: left;
+
+  }
+  #navbar a:hover {
+    
+    color:rgb(118, 176, 194);
+  }
+  /*
+  #Books{
+    width: 30%;
+    height: 500%;
+    background-color: white;
+    margin: 0px 450px 0px;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    
+    background-color:white;
+    width: 500px;
+    height: 250px;
+    margin: 50px;
+    outline: solid 1px white;
+   /* display: flex;*/
+  /*  justify-content: center;
+    align-items: center;
+   
+  }
+  */
+ /* #register{
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: red;
+    margin-left: auto;
+  margin-right: auto;
+
+  }
+  */
+/*  form {
+    width: 30%;
+    height: 500%;
+    /*
+      border: 1px solid white;
+     
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    align-content: center;
+    margin: 0px 450px 0px;
+  }
+
+  */
+  
+
+  .books-table {
+    width: 60%;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px 20px 20px;
+    justify-content: center;
+}
+
+.register {
+    width: 35%;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    justify-content: center;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+.nested-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 5px;
+}
+
+.nested-th, .nested-td {
+    border: 1px solid #ddd;
+    padding: 4px;
+}
+
+.nested-th {
+    background-color: #f2f2f2;
+}
+
+#btn{
+    background-color: rgb(10, 10, 10);
+    padding: 05px;
+    font-size: 25;
+    margin-bottom: 10px;
+    color:white;
+  }
