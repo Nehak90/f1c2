@@ -5,7 +5,7 @@
     
   }
   
-  #navbar{
+ #navbar{
     background-color: black;
     padding: 10px;
     font-size: 25;
@@ -32,55 +32,8 @@
     
     color:rgb(118, 176, 194);
   }
-  /*
-  #Books{
-    width: 30%;
-    height: 500%;
-    background-color: white;
-    margin: 0px 450px 0px;
-  }
   
-  .container {
-    padding: 2px 16px;
-    
-    background-color:white;
-    width: 500px;
-    height: 250px;
-    margin: 50px;
-    outline: solid 1px white;
-   /* display: flex;*/
-  /*  justify-content: center;
-    align-items: center;
-   
-  }
-  */
- /* #register{
-    background-color: white;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    background-color: red;
-    margin-left: auto;
-  margin-right: auto;
-
-  }
-  */
-/*  form {
-    width: 30%;
-    height: 500%;
-    /*
-      border: 1px solid white;
-     
-    display: flex;
-    flex-direction: column;
-    align-items: left;
-    justify-content: center;
-    background-color: rgb(255, 255, 255);
-    align-content: center;
-    margin: 0px 450px 0px;
-  }
-
-  */
-  
+ 
 
   .books-table {
     width: 60%;
